@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "noImplicitAny": true,
+        "sourceMap": true,
+        "stripInternal": true
+    },
+	"files": [
+	    "app.ts"
+	]
+}
